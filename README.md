@@ -1,4 +1,4 @@
-﻿### ตัวอย่างการใช้งาน takeWhile ใน rxjs [Learn RxJS](https://www.learnrxjs.io/learn-rxjs/operators/filtering/take)
+﻿### ตัวอย่างการใช้งาน take ใน rxjs [Learn RxJS](https://www.learnrxjs.io/learn-rxjs/operators/filtering/take)
  
  #### ปล่อยค่าตามจำนวนที่ระบุก่อนสมบูรณ์
 
