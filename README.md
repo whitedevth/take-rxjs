@@ -1,6 +1,6 @@
 ﻿### ตัวอย่างการใช้งาน take ใน rxjs [Learn RxJS](https://www.learnrxjs.io/learn-rxjs/operators/filtering/take)
  
- #### ปล่อยค่าตามจำนวนที่ระบุก่อนสมบูรณ์
+ #### ปล่อยค่าตามจำนวนที่ระบุแล้ว completed
 
 ```
 import { of } from 'rxjs';
